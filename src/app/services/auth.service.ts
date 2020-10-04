@@ -3,6 +3,7 @@ import { AngularFireAuth } from "@angular/fire/auth";
 import { Router } from "@angular/router";
 import { AngularFirestore } from "@angular/fire/firestore";
 import {GooglePlus} from "@ionic-native/google-plus/ngx";
+
 import { auth } from 'firebase';
 
 

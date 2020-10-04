@@ -7,7 +7,11 @@ const routes: Routes = [
   {
     path: 'home',
     loadChildren: () => import('./home/home.module').then( m => m.HomePageModule)
+  },  {
+    path: 'login-email',
+    loadChildren: () => import('./login-email/login-email.module').then( m => m.LoginEmailPageModule)
   },
+
   
 ];
 

@@ -33,5 +33,7 @@ export class LoginPage implements OnInit {
       alert('Algo salio mal, contacta a soporte');
     })
   }
+
 }
+
 

@@ -1,7 +1,8 @@
 {
   "name": "reset-pass",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }

@@ -1,0 +1,35 @@
+.icon{
+    max-width: 32vh;
+    display: block;
+    margin: 0 auto;
+}
+
+ion-input, ion-item{
+    --background: transparent;
+}
+ion-content{
+    --background: aliceblue;
+}
+
+
+
+.text-danger{
+    color: #cf3c4f;
+    
+}
+
+.correo, .password {
+    color: rgb(243, 158, 46);
+    font-size: 14px;
+
+}
+
+.ion-margin-top {
+    --background:#ec832e;
+    font-size: 11px;
+    text-align: center;
+}
+.menu, .regresar{
+    --background:#F4B400;
+    text-align: center;
+}
